@@ -1,11 +1,22 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "name": "Pencatatan Mydihh",
+  "short_name": "Mydihh",
+  "start_url": "/Pencatatan-Mydihh/",
   "display": "standalone",
-  "name": "sechawww.github",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "sechawww.github",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icons-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
